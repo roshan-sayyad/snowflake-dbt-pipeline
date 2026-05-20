@@ -33,6 +33,20 @@ Banking customer analytics and reporting pipeline.
 
 ### Fact Tables
 - fact_transactions
+## Advanced dbt Features
+
+### Tests
+- not_null
+- unique
+
+### Incremental Models
+Optimized transaction loading for large datasets.
+
+### Snapshots
+Historical customer tracking implementation.
+
+### Macros
+Reusable surrogate key generation logic.
 
 ## Business Use Case
 
