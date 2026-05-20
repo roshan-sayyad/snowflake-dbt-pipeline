@@ -1,0 +1,4 @@
+transaction_id,customer_id,account_id,transaction_amount,transaction_date
+1001,1,101,500,2026-01-01
+1002,2,102,1200,2026-01-02
+1003,3,103,700,2026-01-03
